@@ -1,0 +1,2 @@
+# CThread
+Class of thread
