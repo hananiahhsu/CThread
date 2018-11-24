@@ -1,3 +1,2 @@
-﻿  pch.cpp
-  WinThread.cpp
+﻿  CThread.cpp
   WinThread.vcxproj -> J:\ReadMem\CThread\WinThread\x64\Debug\WinThread.exe
