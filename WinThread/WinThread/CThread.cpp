@@ -169,7 +169,9 @@ DWORD WINAPI CThread::StartAddress(LPVOID lpParameter)
 
 
 	CLock lock;
-
+	{
+		cThread->Run();
+	}
 
 	return 0;
 }
